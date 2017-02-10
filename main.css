@@ -1,0 +1,16 @@
+#three{
+	position: absolute;
+	left:0;
+	top:0;
+	width:853px;
+  height:480px;
+}
+
+#three > canvas{
+	width:853px;
+	height:480px;
+}
+
+#video {
+  display: none;
+}
